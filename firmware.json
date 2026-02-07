@@ -1,6 +1,7 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/Dogbonee/FeederAce_Firmware_Updates_Debug/releases/latest/download/firmware.bin",
+  "version": "0.2.2",
+  "x-url": "https://github.com/Dogbonee/FeederAce_Firmware_Updates_Debug/releases/latest/download/firmware-signed-x.bin",
+  "r-url": "https://github.com/Dogbonee/FeederAce_Firmware_Updates_Debug/releases/latest/download/firmware-signed-r.bin",
   "notes": "DEBUG"
 }
 
